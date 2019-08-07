@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "explodingpickaxeaddon:explodingpickaxe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "#",
+      "S"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:diamond_pickaxe"
+      },
+      "S": {
+        "item": "minecraft:netherstar"
+      }
+    },
+    "result": {
+      "item": "explodingpickaxeaddon:explodingpickaxe"
+    }
+  }
+}

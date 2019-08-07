@@ -1,5 +1,5 @@
 {
-  "name": "allinonetemplate",
+  "name": "explodingpickaxeaddon",
   "private": true,
   "scripts": {
     "build": "gulp build",
