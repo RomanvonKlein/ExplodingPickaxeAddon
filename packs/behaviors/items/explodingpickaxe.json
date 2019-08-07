@@ -3,7 +3,8 @@
   "minecraft:item": {
     "description": {
       "identifier": "explodingpickaxeaddon:explodingpickaxe",
-      "register_to_creative_menu": true
+      "register_to_creative_menu": true,
+      "category": "Equipment"
     },
     "components": {
       "minecraft:max_stack_size": 1,

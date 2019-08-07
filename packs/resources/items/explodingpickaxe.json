@@ -2,8 +2,7 @@
   "format_version": "1.10",
   "minecraft:item": {
     "description": {
-      "identifier": "explodingpickaxeaddon:explodingpickaxe",
-      "category": "Equipment"
+      "identifier": "explodingpickaxeaddon:explodingpickaxe"
     },
     "components": {
       "minecraft:icon": "explodingpickaxe"
